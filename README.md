@@ -5,6 +5,7 @@
     3. One Punch Man
     4. Naruto
     5. Your Lie In April
+    6. Food Wars
     
 * Anime Movies
     1. Your Name
